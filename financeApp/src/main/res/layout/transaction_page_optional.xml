@@ -28,7 +28,7 @@
 
             <TextView
                 style="@style/WizardFormLabel"
-                android:text="@string/checknum:" />
+                android:text="@string/checknum" />
 
             <EditText
                 android:id="@+id/transaction_checknum"
@@ -39,7 +39,7 @@
 
             <TextView
                 style="@style/WizardFormLabel"
-                android:text="@string/memo:" />
+                android:text="@string/memo" />
 
             <AutoCompleteTextView
                 android:id="@+id/transaction_memo"
@@ -53,7 +53,7 @@
 
             <TextView
                 style="@style/WizardFormLabel"
-                android:text="@string/date:" />
+                android:text="@string/date" />
 
             <Button
                 android:id="@+id/transaction_date"
@@ -73,7 +73,7 @@
 
             <TextView
                 style="@style/WizardFormLabel"
-                android:text="@string/cleared:" >
+                android:text="@string/cleared" >
             </TextView>
 
             <CheckBox
